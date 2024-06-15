@@ -2,8 +2,7 @@
 
 # Snake Game
 
-
-
+![ssg](https://github.com/VighneshPatil17/snake_game/assets/144689794/9c1e6bf1-a772-4eb3-aee9-738044953632)
 
 Welcome to the classic Snake Game implemented using Python and the Turtle graphics library!
 
