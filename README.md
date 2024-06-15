@@ -13,7 +13,6 @@ Welcome to the classic Snake Game implemented using Python and the Turtle graphi
   - [Food Class](#food-class)
   - [Scoreboard Class](#scoreboard-class)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -41,3 +40,29 @@ To run this game on your local machine, follow these steps:
 To start the game, run the following command:
 ```sh
 python main.py
+
+### Use the arrow keys to control the movement of the snake:
+
+- **Up Arrow:** Move up
+- **Down Arrow:** Move down
+- **Left Arrow:** Move left
+- **Right Arrow:** Move right
+
+## Code Explanation
+
+### Snake Class
+The `Snake` class manages the snake's creation, movement, and growth.
+
+### Food Class
+The `Food` class manages the creation and random placement of food items that the snake eats to grow.
+
+### Scoreboard Class
+The `Scoreboard` class manages the display of the player's score.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue to suggest improvements or report bugs.
+
+
+
+
+
