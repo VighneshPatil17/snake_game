@@ -51,17 +51,20 @@ python main.py
 ## Code Explanation
 
 ### Snake Class
+
 The `Snake` class manages the snake's creation, movement, and growth.
 
 ### Food Class
+
 The `Food` class manages the creation and random placement of food items that the snake eats to grow.
 
 ### Scoreboard Class
+
 The `Scoreboard` class manages the display of the player's score.
 
 ## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue to suggest improvements or report bugs.
 
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue to suggest improvements or report bugs.
 
 
 
