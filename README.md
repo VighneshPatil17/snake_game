@@ -2,6 +2,9 @@
 
 # Snake Game
 
+![Screenshot 2024-06-15 232629](https://github.com/VighneshPatil17/snake_game/assets/144689794/c5bed336-0ea5-4407-a993-ff717b50ed65)
+
+
 Welcome to the classic Snake Game implemented using Python and the Turtle graphics library!
 
 ## Table of Contents
