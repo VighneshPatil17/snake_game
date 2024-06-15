@@ -41,28 +41,28 @@ To start the game, run the following command:
 ```sh
 python main.py
 
-### Use the arrow keys to control the movement of the snake:
+Use the arrow keys to control the movement of the snake:
 
-- **Up Arrow:** Move up
-- **Down Arrow:** Move down
-- **Left Arrow:** Move left
-- **Right Arrow:** Move right
+Up Arrow: Move up
+Down Arrow: Move down
+Left Arrow: Move left
+Right Arrow: Move right
 
-## Code Explanation
+Code Explanation
 
-### Snake Class
+ Snake Class
 
 The `Snake` class manages the snake's creation, movement, and growth.
 
-### Food Class
+ Food Class
 
 The `Food` class manages the creation and random placement of food items that the snake eats to grow.
 
-### Scoreboard Class
+ Scoreboard Class
 
 The `Scoreboard` class manages the display of the player's score.
 
-## Contributing
+ Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue to suggest improvements or report bugs.
 
